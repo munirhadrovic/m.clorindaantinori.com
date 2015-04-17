@@ -180,7 +180,7 @@
 
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
 
-		    <h1>Powered by <a href="http://mobilegrows.com">Mobilegrows.com</a> |<a href="http://www.clorindaantinori.com/" rel="external">  Desktop Site</a></h1>
+		    <h1>Powered by <a href="http://mobilegrows.com" rel="external">Mobilegrows.com</a> |<a href="http://www.clorindaantinori.com/" rel="external">  Desktop Site</a></h1>
 
 		</div>
 
